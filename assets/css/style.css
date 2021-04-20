@@ -1,9 +1,11 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: ;
+    background-image: url(/assets/img/World\ Map.gif);
     background-repeat: no-repeat;
-    font-family: ;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family:
     
 }
 
