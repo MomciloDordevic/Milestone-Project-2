@@ -11,4 +11,10 @@ body {
 
 .grid {
     display: flex;
+
+}
+
+#game {
+    margin: 0px auto;
+    width: 900px;
 }
