@@ -26,6 +26,11 @@ body {
     position: relative;
     transform: scale(1);
 }
+
+.game-card.flip {
+    transform: rotateY(180deg);
+}
+
 .game-card:active {
     transform: scale(.95);
     transition: transform .3s;
