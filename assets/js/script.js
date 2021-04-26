@@ -15,4 +15,13 @@ function flipCard() {
   }
 }
 
+function checkForMatch () {
+    if (firstCard.dataset.framework === secondCard.dataset.framework){
+
+    }
+}
+
+function disableCard()
+
+function unflipCard()
 cards.forEach(card => card.addEventListener('click', flipCard));
