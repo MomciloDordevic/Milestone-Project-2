@@ -21,7 +21,10 @@ function checkForMatch () {
     }
 }
 
-function disableCard()
+function disableCard() {
+    firstCard.removeEventListener('click', flipCard);
+    secondCard.removeEventListener('click', flipCard);
+}
 
 function unflipCard()
 cards.forEach(card => card.addEventListener('click', flipCard));
