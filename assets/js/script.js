@@ -2,8 +2,10 @@ var cards = document.querySelectorAll('.game-card');
 
 var flippedCard = false;
 var firstCard, secondCard;
+var lockBoard = false;
 
 function flipCard() {
+    if (lockBoard) return;
   this.classList.add('flip');
 
   if (!flippedCard) {
