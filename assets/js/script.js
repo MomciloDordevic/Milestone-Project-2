@@ -1,18 +1,18 @@
-var cards = document.querySelectorAll ('.game-card');
+var cards = document.querySelectorAll('.game-card');
 
-let flippedCard = false;
-let firstCard, secondCard;
+var flippedCard = false;
+var firstCard, secondCard;
 
 function flipCard() {
-    this.classList.add('flip');
-    if (!flippedCard) {
-        flippedCard = true;
-        firstCard = this;
+  this.classList.add('flip');
 
-        return;
-    }
+  if (!flippedCard) {
+    flippedCard = true;
+    firstCard = this;
+  } else {
+    flippedCard = false;
+    secondCard = this;
+  }
 }
-
-function checkForMatch()
 
 cards.forEach(card => card.addEventListener('click', flipCard));
