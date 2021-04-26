@@ -21,10 +21,16 @@ function checkForMatch () {
     }
 }
 
-function disableCard() {
-    firstCard.removeEventListener('click', flipCard);
-    secondCard.removeEventListener('click', flipCard);
+function disableCards() {
+  firstCard.removeEventListener('click', flipCard);
+  secondCard.removeEventListener('click', flipCard);
 }
 
-function unflipCard()
+function unflipCards() {
+  setTimeout(() => {
+    firstCard.classList.remove('flip');
+    secondCard.classList.remove('flip');
+  }, 1500);
+}
+
 cards.forEach(card => card.addEventListener('click', flipCard));
