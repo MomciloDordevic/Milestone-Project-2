@@ -9,16 +9,20 @@ function flipCard() {
   if (!flippedCard) {
     flippedCard = true;
     firstCard = this;
-  } else {
-    flippedCard = false;
-    secondCard = this;
+
+    return;
   }
+
+  flippedCard = false;
+  secondCard = this;
+
+  checkForMatch();
 }
 
-function checkForMatch () {
-    if (firstCard.dataset.framework === secondCard.dataset.framework){
+function checkForMatch() {
+  var isMatch = firstCard.dataset.framework === secondCard.dataset.framework;
 
-    }
+  isMatch ? disableCards() : unflipCards();
 }
 
 function disableCards() {
