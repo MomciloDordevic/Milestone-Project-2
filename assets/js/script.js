@@ -4,7 +4,15 @@ let flippedCard = false;
 let firstCard, secondCard;
 
 function flipCard() {
-    this.classList.toggle('flip');
+    this.classList.add('flip');
+    if (!flippedCard) {
+        flippedCard = true;
+        firstCard = this;
+
+        return;
+    }
 }
+
+function checkForMatch()
 
 cards.forEach(card => card.addEventListener('click', flipCard));
