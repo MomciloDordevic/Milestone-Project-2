@@ -45,4 +45,9 @@ body {
     height: 100%;
     position: absolute;
     border: 1px solid black;
+    backface-visibility: hidden;
+}
+
+.front {
+    transform: rotateY(180deg);
 }
