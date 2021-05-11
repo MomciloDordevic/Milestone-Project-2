@@ -60,6 +60,17 @@ body {
   }
 }
 
+.back-button{
+    background-color: #a4a4a4;
+    font-size: 5vh;
+    color: black;
+    font-family: sans-serif;
+    border: 1px black solid;
+    margin-left: 4px;
+    border-radius: 4px;
+}
+
+
 .game-board {
     width: 800px;
     height: 640px;
@@ -101,3 +112,4 @@ body {
 .front {
     transform: rotateY(180deg);
 }
+
