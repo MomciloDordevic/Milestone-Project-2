@@ -14,21 +14,21 @@ h1 {
 body {
     height: 100vh;
     display: flex;
-    background: url(/assets/img/45985.jpg);
+    background: url(/assets/img/mainpage.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position-y: center;
     background-attachment: fixed;
     
 }
 
 .background-img {
-    background-image: url(../img/background.jpg);
+    background-image: url(/assets/img/Front-Page.jpg);
     background-repeat: no-repeat;
     width: 100%;
     height: auto;
+    background-position-y: center;
     background-attachment: fixed;
-    background-position: center;
     background-size: cover;
 }
 
@@ -38,7 +38,7 @@ body {
     font-family: "Architects Daughter",sans-serif;
     position: relative;
     text-align: center;
-    padding-top: 30vh;
+    padding-top: 20vh;
 }
 
 .title-homepage {
