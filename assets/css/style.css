@@ -72,23 +72,28 @@ body {
 
 
 .game-board {
-    width: 800px;
-    height: 640px;
+    width: 900px;
     display:flex;
     flex-wrap: wrap;
     margin: auto;
     perspective: 1000px;
 }
 
+
 .game-card {
-    width: 14.5%;
-    height: 33.33%;
-    margin: 5px;
+    z-index: 1;
+    justify-content: center;
+    float: left;
+	width: 150px;
+	height: 100px;
+	margin: 10px;
+	border: 4px solid black;
+	cursor: pointer;
+    background-size: cover;   
     position: relative;
     transform: scale(1);
     transform-style: preserve-3d;
     transition: transform .3s;
-    border: 4px solid black;
 }
 
 .game-card.flip {
