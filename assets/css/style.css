@@ -7,6 +7,9 @@
     box-sizing: border-box;
 }
 
+h1 {
+    font-size: 12vh;
+}
 
 body {
     height: 100vh;
@@ -40,7 +43,7 @@ body {
 
 .title-homepage {
     font-family: "Architects Daughter",sans-serif;
-    font-size: 8vw;
+    font-size: 12vh;
     text-align: center;
     
 }
@@ -90,6 +93,7 @@ body {
 .start-button {
   animation: blinker 1.5s linear infinite;
 }
+
 @keyframes blinker {
   50% {
     opacity: 0;

@@ -10,23 +10,23 @@ var counter = 0;
 
 
 function flipCard() {
-  if (lockBoard) return;
-  if (this === firstCard) return;
+    if (lockBoard) return;
+    if (this === firstCard) return;
 
-  this.classList.add('flip');
+    this.classList.add('flip');
 
-  if (!flippedCard) {
-    flippedCard = true;
-    firstCard = this;
+    if (!flippedCard) {
+        flippedCard = true;
+        firstCard = this;
 
-    return;
-  }
+        return;
+    }
 
-  secondCard = this;
+    secondCard = this;
 
-  checkForMatch();
+    checkForMatch();
 
-  counter +=1;
+    counter += 1;
     document.getElementById("counter").innerHTML = counter;
 }
 
@@ -35,45 +35,45 @@ function flipCard() {
 /* ----- Check for Match Function -----*/
 
 function checkForMatch() {
-  var isMatch = firstCard.dataset.framework === secondCard.dataset.framework;
+    var isMatch = firstCard.dataset.framework === secondCard.dataset.framework;
 
-  isMatch ? disableCards() : unflipCards();
+    isMatch ? disableCards() : unflipCards();
 }
 
 function disableCards() {
-  firstCard.removeEventListener('click', flipCard);
-  secondCard.removeEventListener('click', flipCard);
+    firstCard.removeEventListener('click', flipCard);
+    secondCard.removeEventListener('click', flipCard);
 
-  resetBoard();
+    resetBoard();
 }
 
 /* ----- Unflip Card Function -----*/
 
 function unflipCards() {
-  lockBoard = true;
+    lockBoard = true;
 
-  setTimeout(() => {
-    firstCard.classList.remove('flip');
-    secondCard.classList.remove('flip');
+    setTimeout(() => {
+        firstCard.classList.remove('flip');
+        secondCard.classList.remove('flip');
 
-    resetBoard();
-  }, 1500);
+        resetBoard();
+    }, 1500);
 }
 
 /* ----- Reset Board Function -----*/
 
 function resetBoard() {
-  [flippedCard, lockBoard] = [false, false];
-  [firstCard, secondCard] = [null, null];
+    [flippedCard, lockBoard] = [false, false];
+    [firstCard, secondCard] = [null, null];
 }
 
 /* ----- Shuffle Function -----*/
 
 (function shuffle() {
-  cards.forEach(card => {
-    let randomPos = Math.floor(Math.random() * 12);
-    card.style.order = randomPos;
-  });
+    cards.forEach(card => {
+        let randomPos = Math.floor(Math.random() * 12);
+        card.style.order = randomPos;
+    });
 })();
 
 function resetGame() {
