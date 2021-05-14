@@ -9,18 +9,16 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="back">
-        <a href="index.html" class="back-button"> <i class="fa fa-arrow-left" aria-hidden="true"></i> Back</a>
-        <span id="buttons">
-        <span class="button">
-            <span id="counter">0</span>
-            flips
-        </span>
-        <span class="button">
-            <a onclick="resetGame();">Reset</a>
-        </span>
+<div id="game">
+<span id="buttons">
+    <span class="button">
+      <span id="counter">0</span>
+      flips
     </span>
-    </div>
+    <span class="button">
+      <a onclick="resetGame();">Reset</a>
+    </span>
+  </span>
     <section class="game-board">
         <div class="game-card" data-framework="saintbernard">
             <img class="front" src="/assets/img/Dogs/saintbernard.png" alt="saintbernard">
@@ -103,6 +101,7 @@
             <img class="back" src="/assets/img/PawPrint.png" alt="PawPrint">
         </div>
     </section>
+</div>
     <script src="assets/js/script.js"></script>
 </body>
 </html>
