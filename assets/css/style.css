@@ -9,9 +9,11 @@ body {
     height: 100vh;
     display: flex;
     background: url(/assets/img/45985.jpg);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position:center;
+    background-position: center center;
+    background-attachment: fixed;
+    
 }
 
 .background-img {
@@ -25,11 +27,7 @@ body {
 }
 
 
-#game {
-    
-    margin: 0px auto;
-    width: 900px; 
-}
+
 .titlecenter {
     position: relative;
     text-align: center;
@@ -44,22 +42,23 @@ body {
 }
 
 #buttons {
+    position: fixed;
     text-align: center;
-	margin-top: 30px;
+    margin-top:80px;
     margin-bottom: 30px;
-	display: block;    
+    display: block;
+    width: auto;
+    
 }
-
 
 #buttons .button{
     text-transform: uppercase;
-	background: #afafaf;
-	margin: 60px;
+	background: #ffffff;
 	cursor: pointer;
-    padding: 5px 10px;
+    padding: 5px;
     border-radius: 10px;
     color:black;
-    font-weight: 800;
+    font-weight: 900;
 }
 
 #buttons .button:hover{
@@ -96,9 +95,11 @@ body {
     color: black;
     font-family: sans-serif;
     border: 1px black solid;
-    margin-left: 4px;
+    margin-right: 0;
     border-radius: 4px;
+    position: fixed;
 }
+
 
 .back-button:hover {
    background-color: orange;
@@ -110,8 +111,8 @@ body {
     flex-wrap: wrap;
     margin: auto;
     perspective: 1000px;
+    justify-content: center;
 }
-
 
 .game-card {
     z-index: 1;
@@ -119,7 +120,7 @@ body {
     float: left;
 	width: 150px;
 	height: 100px;
-	margin: 10px;
+    margin: 10px;
 	border: 4px solid black;
 	cursor: pointer;
     background-size: cover;   
@@ -151,8 +152,8 @@ body {
     transform: rotateY(180deg);
 }
 
-.game {
-    width: 100%;
-    height: 100%;
-    position: relative;
+@media screen and (max-width:1100px) {
+    .game-board {
+        margin-top: 100px;
+    }
 }
