@@ -80,5 +80,4 @@ function resetGame() {
     document.location.href = "";
 }
 
-
 cards.forEach(card => card.addEventListener('click', flipCard));
