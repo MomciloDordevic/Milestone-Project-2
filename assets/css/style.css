@@ -37,6 +37,21 @@ body {
     
 }
 
+.button {
+    text-align: center;
+	margin-top: 30px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+	background: #ffffff;
+	margin: 60px;
+	cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 10px;
+    color:violet;
+    font-weight: 900;
+	display: block;    
+}
+
 .game-button{
     position: relative;
 }

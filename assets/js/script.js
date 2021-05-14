@@ -3,8 +3,10 @@ var cards = document.querySelectorAll('.game-card');
 var flippedCard = false;
 var firstCard, secondCard;
 var lockBoard = false;
+var counter = 0;
 
 /* ----- Flip Card Function -----*/
+
 
 
 function flipCard() {
@@ -23,7 +25,12 @@ function flipCard() {
   secondCard = this;
 
   checkForMatch();
+
+  counter +=1;
+    document.getElementById("counter").innerHTML = counter;
 }
+
+
 
 /* ----- Check for Match Function -----*/
 
@@ -68,6 +75,5 @@ function resetBoard() {
     card.style.order = randomPos;
   });
 })();
-
 
 cards.forEach(card => card.addEventListener('click', flipCard));
