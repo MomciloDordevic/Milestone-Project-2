@@ -136,6 +136,9 @@ Back button that takes you back to the starting page.
 
  * As a font resource.
 
+### Google Web Developer tools
+
+ * As a means for debuging and checking.
 
 ### Github
 
@@ -228,8 +231,9 @@ To run localy:
 
  * To complete this project I used Code Institute many various tasks and early projects that
  i encountered during my studies, the slack community was so helpful and its a great thing
- to have help you when you run into problems that you alone cannot solve, also there is a
- lot of great content creators on youtube and twitch that share their knowlage on coding.
+ to have help you when you run into problems that you alone cannot solve, to help me create
+ the memory game javascript itself, I watched several youtube videos and channels that point
+ out certain things that changed my code into what i needed to be.
 
  * Ideas and knowledge library:
 
@@ -243,3 +247,17 @@ To run localy:
 
     * stackoverflow.com
 
+
+## Screenshots
+
+### Start Page
+
+![](https://i.gyazo.com/42697e552aa43476b7ac8027d7188e78.jpg)
+
+
+### Game Page
+
+![](https://i.gyazo.com/574abec2245fbea47b34d7ae3773f762.jpg)
+
+
+Thank you for your time ! 
