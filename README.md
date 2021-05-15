@@ -200,3 +200,46 @@ Mobile Device
 ### CSS Validation : 
 
 ![](https://i.gyazo.com/0e4d5ac1fc1e658e84e9e48fef436329.png)
+
+## Deployment
+
+The project was deployed on GitHub Pages. I used Gitpod as a development environment where I commited all changes to git version control system. I used push command in Gitpod to save changes into GitHub.
+
+To deploy a project I had to:
+
+ * Log in to GitHub and click on repository to deploy (Milestone-Project-2).
+
+ * Select Settings and find GitHub Pages section at the very bottom of the page.
+ 
+ * From source select none and then Milestone-Projects branch.
+ 
+ * Click save and page was deployed after auto-refresh.
+
+To run localy:
+
+ * Log in to GitHub and click on repository to download (Milestone-Project-2).
+
+ * Select Code and click Download the ZIP file.
+
+ * After download you can extract the file and use it in your local environment.
+
+
+## Credits
+
+ * To complete this project I used Code Institute many various tasks and early projects that
+ i encountered during my studies, the slack community was so helpful and its a great thing
+ to have help you when you run into problems that you alone cannot solve, also there is a
+ lot of great content creators on youtube and twitch that share their knowlage on coding.
+
+ * Ideas and knowledge library:
+
+    * w3schools.com
+
+    * css-tricks.com
+
+    * youtube.com
+
+    * leetcode.com
+
+    * stackoverflow.com
+
