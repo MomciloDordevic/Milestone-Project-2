@@ -172,3 +172,9 @@ body {
         margin-top: 110px;
     }
 }
+
+@media screen and (max-width:400px) {
+    .game-card {
+        width: 115px;
+    }
+}
