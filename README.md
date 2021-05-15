@@ -160,3 +160,25 @@ Site was tested across multiple virtual mobile devices and browsers. I checked a
 devices in both Mozilla web developer tolls and Chrome developer tools.
 
 I tested on hardware devices such as: Iphone 11, Lenovo Tablet, Huawei p30 pro, Macbook Pro 15'.
+
+
+## Performace Testing
+
+I used the Lighthouse tool to check performance of the website. I had to do couple of changes to improve performance.
+Screenshots are presented below:
+
+
+![](https://i.gyazo.com/73cd555815f3a11af56c969b419dddbe.png)
+
+![](https://i.gyazo.com/c5e4dcb8e95db3513bdbf96c16d59da2.png)
+
+![](https://i.gyazo.com/6bb61e033d257907c52bad92b474d634.png)
+
+![](https://i.gyazo.com/4d2c19b36707a4c39fc1d6ee737c16d1.png)
+
+### Code Validation
+
+ * W3C CSS Validator to validate CSS.
+ * W3C HTML Validator to validate HTML.
+
+### HTML Validation :
