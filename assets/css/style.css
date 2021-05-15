@@ -14,7 +14,7 @@ h1 {
 body {
     height: 100vh;
     display: flex;
-    background: url(/assets/img/mainpage.jpg);
+    background: url(../img/mainpage.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: center;
@@ -23,7 +23,7 @@ body {
 }
 
 .background-img {
-    background-image: url(Milestone-Project-2/assets/img/Front-Page.jpg);
+    background-image: url(../img/Front-Page.jpg);
     background-repeat: no-repeat;
     width: 100%;
     height: auto;
