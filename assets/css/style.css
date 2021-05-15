@@ -7,9 +7,7 @@
     box-sizing: border-box;
 }
 
-h1 {
-    font-size: 12vh;
-}
+/* Body / Background Image */
 
 body {
     height: 100vh;
@@ -32,7 +30,11 @@ body {
     background-size: cover;
 }
 
+h1 {
+    font-size: 12vh;
+}
 
+/* Front Page  */
 
 .titlecenter {
     font-family: "Architects Daughter",sans-serif;
@@ -47,6 +49,8 @@ body {
     text-align: center;
     
 }
+
+/* Back button, Reset button, Start button */
 
 #buttons {
     font-family: "Architects Daughter",sans-serif;
@@ -119,6 +123,7 @@ body {
    text-decoration: none;
    color: white;
 }
+/*  Game Board and Card  */
 
 .game-board {
     width: 900px;
@@ -166,6 +171,8 @@ body {
 .front {
     transform: rotateY(180deg);
 }
+
+/* Media Queries */
 
 @media screen and (max-width:1400px) {
     .game-board {

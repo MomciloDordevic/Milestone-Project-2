@@ -76,6 +76,10 @@ function resetBoard() {
     });
 })();
 
+
+/* ----- Reset Game Function -----*/
+
+
 function resetGame() {
     document.location.href = "";
 }

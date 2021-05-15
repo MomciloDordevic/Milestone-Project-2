@@ -2,7 +2,7 @@
 
 ## Interactive Frontend Development Milestone Project.
 
-![](https://i.gyazo.com/ebcac951b4087ae875a61db7e57086ef.png) 
+![](https://i.gyazo.com/e1d1eff63180c5f87d51c4250dedfdcb.png) 
 
 This project is for education purposes only and the main aim is to build a responsive website with HTML, CSS, JavaScript only.
 
@@ -12,6 +12,8 @@ Website Link! Github repository link!
 ## Table of Contents:
 
 * [UX](#UX)
+
+  * [User stories](#user-stories)
 
   * [Structure of the website](#structure-of-the-website)
 
@@ -41,6 +43,16 @@ Website Link! Github repository link!
 # UX
 
 
+## User stories
+
+  * A user who plays the game can easily navigate to the game page.
+
+  * A user who plays the game can easly understand the functionality of the game is simple and
+    easy to understand without the need for directions.
+
+  * A user who plays the game can challenge themselves to complete the game in the fastest time.
+
+
 ## Structure of the website
 
 This website is designed to be easy and user-friendly on all types of devices. On dektop, tablet
@@ -52,7 +64,7 @@ parts are designed to achieve the highest possible user satisfaction.
 
 I used the website wireframe.cc to create a wireframes.
 
-![](https://i.gyazo.com/68f8051349d58ed701cd51f5114e7cbf.png)
+![](https://i.gyazo.com/fb0bf598d4e0726e6dcf36a4f43b5772.png)
 
 
 ## Surface
@@ -167,14 +179,14 @@ I tested on hardware devices such as: Iphone 11, Lenovo Tablet, Huawei p30 pro, 
 I used the Lighthouse tool to check performance of the website. I had to do couple of changes to improve performance.
 Screenshots are presented below:
 
+Desktop Device
 
-![](https://i.gyazo.com/73cd555815f3a11af56c969b419dddbe.png)
+![](https://i.gyazo.com/8d5f7eb39a4b20ccdb2f006f0629190a.png)
 
-![](https://i.gyazo.com/c5e4dcb8e95db3513bdbf96c16d59da2.png)
+Mobile Device
 
-![](https://i.gyazo.com/6bb61e033d257907c52bad92b474d634.png)
+![](https://i.gyazo.com/79dbf354e46d4e28fe06a65edc826027.png)
 
-![](https://i.gyazo.com/4d2c19b36707a4c39fc1d6ee737c16d1.png)
 
 ### Code Validation
 
