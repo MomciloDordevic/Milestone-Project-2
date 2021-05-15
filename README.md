@@ -194,3 +194,9 @@ Mobile Device
  * W3C HTML Validator to validate HTML.
 
 ### HTML Validation :
+
+![](https://i.gyazo.com/558cab8fe4289b0207923b531013e27c.png)
+
+### CSS Validation : 
+
+![](https://i.gyazo.com/0e4d5ac1fc1e658e84e9e48fef436329.png)
