@@ -1,45 +1,38 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Momcilo Dordevic's "Match the Doggos" Memory Game.
 
-Welcome MomciloDordevic,
+## Interactive Frontend Development Milestone Project.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+![](https://i.gyazo.com/ebcac951b4087ae875a61db7e57086ef.png) 
 
-## Gitpod Reminders
+This project is for education purposes only and the main aim is to build a responsive website with HTML, CSS, JavaScript only.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Website Link! Github repository link!
 
-`python3 -m http.server`
 
-A blue button should appear to click: _Make Public_,
+## Table of Contents:
 
-Another blue button should appear to click: _Open Browser_.
+* [UX](#UX)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+  * [Structure of the website](#structure-of-the-website)
 
-A blue button should appear to click: _Make Public_,
+  * [Wireframes](#wireframes)
 
-Another blue button should appear to click: _Open Browser_.
+  * [Surface](#surface)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+* [Features](#Features)
 
-## Updates Since The Instructional Video
+* [Technology](#Technology)
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+  * [Functionality testing](#Functionality-testing)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+  * [Compatibility testing](#Compatibility-testing)
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+  * [Code validation](#Code-validation)
+  
+* [Performance testing](#Performance-testing)
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+* [Deployment](#Deployment)
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+* [Credits](#Credits)
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
----
-
-Happy coding!
+* [Screenshots](#Screenshots)
