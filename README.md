@@ -95,3 +95,68 @@ A start page with a "Start Game" button and the tittle " Match the Doggos ".
 A main page where the game is being displayed, a Tracker that tracks how many times a set
 of cards has been flipped, a Reset button to reset the game by realoading the page and a
 Back button that takes you back to the starting page.
+
+
+## Technologies used
+
+
+### HTML5 
+
+ * As a structure language.
+
+
+### CSS3 
+
+ * As a style language.
+
+
+### JavaScript
+
+ * As a scripting language.
+
+
+### Font Awesome
+
+ * As an icon library for the back button.
+
+
+### Google Fonts
+
+ * As a font resource.
+
+
+### Github
+
+ * As a software hosting platform to keep project in a remote location.
+
+
+### Git 
+
+ * As a version-control system tracking.
+
+
+### Gitpod
+
+ * As a development hosting platform.
+
+
+### Wireframe.cc
+
+ * As a wireframing tool.
+
+
+## Testing 
+
+
+### Functionality Testing 
+
+I used Mozilla web developer tools and Chrome developer tools throughout the project for
+testing and solving problems with responsiveness and style issues.
+
+
+### Compatibility Testing
+
+Site was tested across multiple virtual mobile devices and browsers. I checked all supported 
+devices in both Mozilla web developer tolls and Chrome developer tools.
+
+I tested on hardware devices such as: Iphone 11, Lenovo Tablet, Huawei p30 pro, Macbook Pro 15'.
