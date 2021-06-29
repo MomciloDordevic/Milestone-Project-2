@@ -37,7 +37,7 @@ h1 {
 /* Overlay Text */
 
 .overlay-text {
-    display: flex;
+    display: none;
     position: fixed;
     top: 0;
     bottom: 0;
@@ -48,6 +48,16 @@ h1 {
     z-index: 100;
     font-family: "Architects Daughter",sans-serif;
 
+}
+
+.overlay-text.visible {
+    display:flex;
+    font-size: 6em;
+    flex-direction: column;
+}
+
+.overlay-text-small {
+    font-size: 0.5em;
 }
 
 /* Front Page  */
