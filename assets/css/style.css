@@ -17,7 +17,6 @@ body {
     background-repeat: no-repeat;
     background-position-y: center;
     background-attachment: fixed;
-    
 }
 
 .background-img {
@@ -151,6 +150,7 @@ h1 {
 /*  Game Board and Card  */
 
 .game-board {
+    position: relative;
     width: 900px;
     display:flex;
     flex-wrap: wrap;
@@ -197,11 +197,28 @@ h1 {
     transform: rotateY(180deg);
 }
 
+/* Social Links */
+
+.social-links {
+    position: absolute;
+    left: 22vh;
+    font-family: "Architects Daughter",sans-serif;
+}
+
+.social-links a {
+    text-decoration: none;
+    padding: 1px;
+}
+
+
 /* Media Queries */
 
 @media screen and (max-width:1400px) {
     .game-board {
-        margin-top: 110px;
+        margin-top: 130px;
+    }
+    .thebuttons {
+        margin-top: 10px;
     }
 }
 
