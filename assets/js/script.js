@@ -38,6 +38,13 @@ function checkForMatch() {
     var isMatch = firstCard.dataset.framework === secondCard.dataset.framework;
 
     isMatch ? disableCards() : unflipCards();
+ 
+}
+
+
+function victory() {
+    document.getElementById('victory-text').classList.add('visible');
+
 }
 
 function disableCards() {
