@@ -1,4 +1,3 @@
-
 var clickAudio = new Audio('assets/audio/clicksoundfile.wav');
 var victoryAudio = new Audio('assets/audio/victorysoundfile.flac')
 var cards = document.querySelectorAll('.game-card');
