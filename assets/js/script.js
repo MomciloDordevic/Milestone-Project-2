@@ -1,12 +1,7 @@
 
-var audio = new Audio('assets/audio/clicksoundfile.wav');
-audio.play();
-
+var clickAudio = new Audio('assets/audio/clicksoundfile.wav');
 var victoryAudio = new Audio('assets/audio/victorysoundfile.flac')
-victoryAudio.play();
-
 var cards = document.querySelectorAll('.game-card');
-
 var matchCount = 0;
 var flippedCard = false;
 var firstCard, secondCard;
@@ -14,9 +9,7 @@ var lockBoard = false;
 var counter = 0;
 
 
-
 /* ----- Flip Card Function -----*/
-
 
 function flipCard() {
     if (lockBoard) return;
@@ -30,15 +23,12 @@ function flipCard() {
 
         return;
     }
-
     secondCard = this;
     
-
     checkForMatch();
 
     counter += 1;
     document.getElementById("counter").innerHTML = counter;
-
 }
 
 
@@ -47,11 +37,8 @@ function flipCard() {
 
 function checkForMatch() {
     var isMatch = firstCard.dataset.framework === secondCard.dataset.framework;
-    
 
     isMatch ? disableCards() : unflipCards();
-    
- 
 }
 
 
@@ -65,7 +52,7 @@ function victory() {
 function disableCards() {
     firstCard.removeEventListener('click', flipCard);
     secondCard.removeEventListener('click', flipCard);
-    audio.play();
+    clickAudio.play();
     matchCount++;
     if (matchCount === 10){
         victory();
