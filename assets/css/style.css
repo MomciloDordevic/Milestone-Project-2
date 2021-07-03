@@ -50,13 +50,27 @@ h1 {
 }
 
 .overlay-text.visible {
+    color:rgba(255, 230, 0, 0.904);
     display:flex;
     font-size: 6em;
     flex-direction: column;
+    animation: overlay-grow 500ms forwards;
 }
+
+@keyframes overlay-grow {
+    from {
+      background-color: rgba(0, 0, 0, 0);
+      font-size: 0;
+    }
+    to {
+      background-color: rgba(0, 0, 0, .8);
+      font-size: 10em;
+    }
+  }
 
 .overlay-text-small {
     font-size: 0.5em;
+    color: red;
 }
 
 /* Front Page  */
@@ -183,6 +197,7 @@ h1 {
     transform: scale(.95);
     transition: transform .3s;
 }
+
 
 .front, 
 .back {
