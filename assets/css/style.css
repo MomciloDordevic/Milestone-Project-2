@@ -51,9 +51,10 @@ h1 {
 }
 
 .overlay-text.visible {
+    text-align: center;
     color:#ffc107;
     display:flex;
-    font-size: 8em;
+    font-size: 6em;
     flex-direction: column;
     animation: overlay-grow 500ms forwards;
 }
