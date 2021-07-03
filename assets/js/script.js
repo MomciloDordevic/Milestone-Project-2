@@ -1,5 +1,6 @@
 var cards = document.querySelectorAll('.game-card');
 
+var matchCount = 0;
 var flippedCard = false;
 var firstCard, secondCard;
 var lockBoard = false;
@@ -44,12 +45,19 @@ function checkForMatch() {
 
 function victory() {
     document.getElementById('victory-text').classList.add('visible');
+     
 
 }
+
+
 
 function disableCards() {
     firstCard.removeEventListener('click', flipCard);
     secondCard.removeEventListener('click', flipCard);
+    matchCount++;
+    if (matchCount === 10){
+        victory();
+    }
 
     resetBoard();
 }
