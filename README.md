@@ -80,7 +80,7 @@ Main colours used in a project:
   * Hover Color: Orange
   * Background Color for Buttons: #afafaf
 
-[Back to Table of Contents](https://momcilodordevic.github.io/Milestone-Project-2/index.html#table-of-contents)
+[Back to Table of Contents](https://github.com/MomciloDordevic/Milestone-Project-2#table-of-contents)
 
 
 ### Fonts 
@@ -163,6 +163,7 @@ Back button that takes you back to the starting page.
 
  * As a wireframing tool.
 
+[Back to Table of Contents](https://github.com/MomciloDordevic/Milestone-Project-2#table-of-contents)
 
 ## Testing 
 
@@ -230,6 +231,7 @@ To run localy:
 
  * After download you can extract the file and use it in your local environment.
 
+[Back to Table of Contents](https://github.com/MomciloDordevic/Milestone-Project-2#table-of-contents)
 
 ## Credits
 
