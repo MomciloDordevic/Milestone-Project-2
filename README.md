@@ -142,6 +142,8 @@ A main page where the game is being displayed, a Tracker that tracks how many ti
 of cards has been flipped, a Reset button to reset the game by realoading the page and a
 Back button that takes you back to the starting page.
 
+There is a option to visit my social links and github repository in the top of the game page.
+
 
 ## Technologies used
 
@@ -202,6 +204,10 @@ Back button that takes you back to the starting page.
 
 I used Mozilla web developer tools and Chrome developer tools throughout the project for
 testing and solving problems with responsiveness and style issues.
+
+All links were tested multiple times during the development process to ensure that all pages were linked correctly.
+
+Family members and friends were asked to view the site and play the game.
 
 
 ### Compatibility Testing
