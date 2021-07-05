@@ -245,6 +245,10 @@ Mobile Device
 
 ![](https://i.gyazo.com/0e4d5ac1fc1e658e84e9e48fef436329.png)
 
+## User Stories testing
+### As a new user:
+
+
 ## Deployment
 
 The project was deployed on GitHub Pages. I used Gitpod as a development environment where I commited all changes to git version control system. I used push command in Gitpod to save changes into GitHub.
