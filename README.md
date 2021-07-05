@@ -245,9 +245,21 @@ Mobile Device
 
 ![](https://i.gyazo.com/0e4d5ac1fc1e658e84e9e48fef436329.png)
 
-## User Stories testing
-### As a new user:
+## User Stories testing :
 
+### As a new user :
+
+* As a first time user, I want to challenge my memory abilities.
+   * Everytime the game is reset the cards are in different places making each game different.
+
+* As first time user, I want to navigate the website easily.
+   * The navigation bar allows the user to intuitively and easily move between the various pages.
+
+* As a first time user, I want to be able to play the game on all device types.
+    * The site has been developed to be easily accessible on all device types.
+
+### As a returning user : 
+    
 
 ## Deployment
 
