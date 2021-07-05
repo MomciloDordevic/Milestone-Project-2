@@ -231,10 +231,13 @@ h1 {
 
 @media screen and (max-width:1400px) {
     .game-board {
-        margin-top: 150px;
+        margin-top: 160px;
     }
     .thebuttons {
         margin-top: 10px;
+    }
+    #buttons {
+        margin-top: 90px;
     }
 }
 
