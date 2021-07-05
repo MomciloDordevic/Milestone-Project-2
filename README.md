@@ -15,6 +15,8 @@ You can find the link to my repositories on GitHub <a href="https://github.com/M
 
 * [UX](#UX)
 
+  * [Website owner business goals](#website-owner-business-goals)
+
   * [User stories](#user-stories)
 
   * [Structure of the website](#structure-of-the-website)
@@ -44,15 +46,36 @@ You can find the link to my repositories on GitHub <a href="https://github.com/M
 
 # UX
 
+## Website owner business goals
+
+ * I want my visitors to be able to navigate my website intuitively and easily.
+
+ * I want my visitors to test out their memory to their best ability.
+
+ * I would like the game to be fun and enthralling for visitors.
+
+ * I would like to build and maintain relationships with potential and current visitors.
+
 
 ## User stories
 
-  * A user who plays the game can easily navigate to the game page.
 
-  * A user who plays the game can easly understand the functionality of the game is simple and
-    easy to understand without the need for directions.
+### New user goals:
 
-  * A user who plays the game can challenge themselves to complete the game in the fastest time.
+ * As a first time user, I want to challenge my memory abilities.
+
+ * As a first time user, I want to navigate the website easily.
+
+ * As a first time user, I want to be able to play the game from all device types.
+ 
+ * As a first time user, I want to be able to easily understand the functionality of the game which is simple and easy
+   to understand without the need for directions.
+
+### Returning user goals:
+
+ * As a returning user, I would like to challenge myself to complete the game with the least ammount of flips.
+
+ * As a returning user, I want to be able to access the social media links.
 
 
 ## Structure of the website
@@ -97,6 +120,13 @@ Main colours used in a project:
 The website consists of 2 pages which include a starting page and a main page where the
 game is being displayed.
 
+## Future features
+
+ * Increased levels of difficulty.
+
+ * An option to log in and save your scores.
+
+ * Accuracy percentage display.
 
 #### The Website Consists Of :
 
