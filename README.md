@@ -8,7 +8,7 @@ This project is for education purposes only and the main aim is to build a respo
 
 The live site can be found <a href="https://momcilodordevic.github.io/Milestone-Project-2/index.html" target="_blank" rel="noopener">here</a>.
 
-You can find the link to my repositories on GitHub <a href="https://github.com/MomciloDordevic?tab=repositories" target="_blank" rel="noopener">here</a>
+You can find the link to my repositories on GitHub <a href="https://github.com/MomciloDordevic?tab=repositories" target="_blank" rel="noopener">here</a>.
 
 
 ## Table of Contents:
@@ -79,6 +79,8 @@ Main colours used in a project:
   * Font Color: Black and Red
   * Hover Color: Orange
   * Background Color for Buttons: #afafaf
+
+[Back to Table of Contents](https://momcilodordevic.github.io/Milestone-Project-2/index.html#table-of-contents)
 
 
 ### Fonts 
