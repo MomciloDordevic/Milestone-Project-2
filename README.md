@@ -6,9 +6,9 @@
 
 This project is for education purposes only and the main aim is to build a responsive website with HTML, CSS, JavaScript only.
 
-You can find the link to the webpage here !<a href ="https://momcilodordevic.github.io/Milestone-Project-2/" target="_blank" rel="noopener"</a>
+The live site can be found <a href="https://momcilodordevic.github.io/Milestone-Project-2/index.html" target="_blank" rel="noopener">here</a>.
 
-You can find the link to my repositories on GitHub here !<a href ="https://github.com/MomciloDordevic?tab=repositories" target="_blank" rel="noopener"</a>
+You can find the link to my repositories on GitHub <a href="https://github.com/MomciloDordevic?tab=repositories" target="_blank" rel="noopener">here</a>
 
 
 ## Table of Contents:
