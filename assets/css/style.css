@@ -241,6 +241,16 @@ h1 {
     }
 }
 
+@media screen and (min-width:1024px) {
+    .game-board {
+        margin-top: 200px;
+    }
+    #buttons {
+        margin-top: 110px;
+    }
+    
+}
+
 @media screen and (max-width:400px) {
     .game-card {
         width: 115px;
