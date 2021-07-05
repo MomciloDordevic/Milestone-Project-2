@@ -2,7 +2,7 @@
 
 ## Interactive Frontend Development Milestone Project.
 
-![](https://i.gyazo.com/e1d1eff63180c5f87d51c4250dedfdcb.png) 
+![](https://i.gyazo.com/db87abebcd65477aa10bebabf4726268.png) 
 
 This project is for education purposes only and the main aim is to build a responsive website with HTML, CSS, JavaScript only.
 
