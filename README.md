@@ -332,6 +332,13 @@ To run localy:
 
     * stackoverflow.com
 
+## Acknowledgements
+
+* My mentor for support, advice and feedback on how to get my project to where it is now.
+
+* The students on Slack for endless information on various questions.
+
+* My family for their endless support, feedback and testing.
 
 ## Screenshots
 
