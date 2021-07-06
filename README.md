@@ -50,8 +50,6 @@ You can find the link to my repositories on GitHub <a href="https://github.com/M
 
  * I want my visitors to be able to navigate my website intuitively and easily.
 
- * I want my visitors to test out their memory to their best ability.
-
  * I would like the game to be fun and enthralling for visitors.
 
  * I would like to build and maintain relationships with potential and current visitors.
@@ -91,10 +89,10 @@ I used the website wireframe.cc to create a wireframes.
 
 ![](https://i.gyazo.com/fb0bf598d4e0726e6dcf36a4f43b5772.png)
 
+[Back to Table of Contents](https://github.com/MomciloDordevic/Milestone-Project-2#table-of-contents)
 
 ## Surface
 
-[Back to Table of Contents](https://github.com/MomciloDordevic/Milestone-Project-2#table-of-contents)
 
 ### Colors
 
@@ -284,6 +282,7 @@ Mobile Device
 
    * Users can contact me via social links, as well as having a link to my github repositories for potential future colaborations.
 
+
 ## Deployment
 
 The project was deployed on GitHub Pages. I used Gitpod as a development environment where I commited all changes to git version control system. I used push command in Gitpod to save changes into GitHub.
@@ -359,3 +358,5 @@ To run localy:
 
 
 Thank you for your time ! 
+
+[Back to Table of Contents](https://github.com/MomciloDordevic/Milestone-Project-2#table-of-contents)
