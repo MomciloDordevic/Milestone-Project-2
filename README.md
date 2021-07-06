@@ -21,13 +21,13 @@ You can find the link to my repositories on GitHub <a href="https://github.com/M
 
   * [Structure of the website](#structure-of-the-website)
 
-  * [Wireframes](#wireframes)
+* [Wireframes](#wireframes)
 
-  * [Surface](#surface)
+* [Surface](#surface)
 
-  * [Features](#Features)
+* [Features](#Features)
 
-  * [Technology](#Technology)
+* [Technology](#Technology)
 
   * [Functionality Testing](#Functionality-testing)
 
@@ -39,15 +39,15 @@ You can find the link to my repositories on GitHub <a href="https://github.com/M
 
   * [User Stories Testing](#User-stories-testing)
 
-  * [Deployment](#Deployment)
+* [Deployment](#Deployment)
 
   * [Bugs duing Development](#Bugs-duing-Development)
 
-  * [Credits](#Credits)
+* [Credits](#Credits)
 
-  * [Acknowledgements](#Acknowledgements)
+* [Acknowledgements](#Acknowledgements)
 
-  * [Screenshots](#Screenshots)
+* [Screenshots](#Screenshots)
 
 
 # UX
