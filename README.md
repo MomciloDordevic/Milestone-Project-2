@@ -337,12 +337,12 @@ To run localy:
 
 ### Start Page
 
-![](https://i.gyazo.com/42697e552aa43476b7ac8027d7188e78.jpg)
+![](https://i.gyazo.com/4e53235e086ffdcc4b20bcae8952ed1a.jpg)
 
 
 ### Game Page
 
-![](https://i.gyazo.com/574abec2245fbea47b34d7ae3773f762.jpg)
+![](https://i.gyazo.com/ef6f8aa26e80137720c805f37ea608e9.png)
 
 
 Thank you for your time ! 
