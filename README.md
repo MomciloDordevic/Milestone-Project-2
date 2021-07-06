@@ -265,9 +265,20 @@ Mobile Device
 
    * Returning users can find a link to my Social Media (Instagram) where they can contact me about any further information and questions they might have, and there is a link to my github repositories in case a user is interested in working together in a future colaboration or if the user has questions about how the game was made or how it functions. They can aswell ask questions on how the game works possibly even though its pretty self explanatory.
 
+
 * As a returning user, I would like to test out my skills in the game to their full potential.
 
    * Returning users have the information on how many sets of cards have been flipped every time they finish the game, so they can try out themselves in completing the game with the least ammount of card sets flipped.
+
+
+### As a website owner
+
+* I want my visitors to be able to navigate my website intuitively and easily.
+
+   * The game page has a navigation bar located at the top of the page that can take you back to the starting page.
+
+* I would like the game to be fun and enthralling for visitors.
+   * The cards are pictures of various dog breeds. Everytime the game is reset the cards are in different places making each  game different from the last.
 
 ## Deployment
 
