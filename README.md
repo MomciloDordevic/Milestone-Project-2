@@ -280,6 +280,10 @@ Mobile Device
 * I would like the game to be fun and enthralling for visitors.
    * The cards are pictures of various dog breeds. Everytime the game is reset the cards are in different places making each  game different from the last.
 
+* I would like to build and maintain relationship with potential and current visitors.
+
+   * Users can contact me via social links, as well as having a link to my github repositories for potential future colaborations.
+
 ## Deployment
 
 The project was deployed on GitHub Pages. I used Gitpod as a development environment where I commited all changes to git version control system. I used push command in Gitpod to save changes into GitHub.
@@ -311,6 +315,10 @@ To run localy:
  to have help you when you run into problems that you alone cannot solve, to help me create
  the memory game javascript itself, I watched several youtube videos and channels that point
  out certain things that changed my code into what i needed to be.
+
+ * W3schools.com was used for explanations and clarity on issues with sizing and other visual effects.
+
+ * Web Development Simplified, a youtube channel with great instructional videos on a lot of topics covering Web Development.
 
  * Ideas and knowledge library:
 
