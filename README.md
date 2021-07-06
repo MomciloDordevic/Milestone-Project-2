@@ -308,6 +308,12 @@ To run localy:
 
 [Back to Table of Contents](https://github.com/MomciloDordevic/Milestone-Project-2#table-of-contents)
 
+## Bugs during development
+
+* Had an issue with the flip counter span, it stoped working as soon as i added another span that shows the same information when the game has been completed.
+
+* Had an issue with Audio files, both the audio file for a match and for a game victory played at the same time when the game is completed and resulted in a victory.
+
 ## Credits
 
  * To complete this project I used Code Institute many various tasks and early projects that
