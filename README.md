@@ -94,16 +94,17 @@ I used the website wireframe.cc to create a wireframes.
 
 ## Surface
 
+[Back to Table of Contents](https://github.com/MomciloDordevic/Milestone-Project-2#table-of-contents)
 
 ### Colors
 
 Main colours used in a project:
 
-  * Font Color: Black and Red
-  * Hover Color: Orange
+  * Font Color: Black and Red.
+  * Hover Color: Blue.
   * Background Color for Buttons: #afafaf
 
-[Back to Table of Contents](https://github.com/MomciloDordevic/Milestone-Project-2#table-of-contents)
+
 
 
 ### Fonts 
@@ -250,7 +251,7 @@ Mobile Device
 ### As a new user :
 
 * As a first time user, I want to challenge my memory abilities.
-   * Everytime the game is reset the cards are in different places making each game different.
+   * Everytime the game is reset or the page is reloaded the cards are shuffled in different places making each game different from the last.
 
 * As first time user, I want to navigate the website easily.
    * The navigation bar allows the user to intuitively and easily move between the various pages.
@@ -260,6 +261,13 @@ Mobile Device
 
 ### As a returning user : 
     
+* As a returning user, I would like to get in contact with the games creator for further games or potential colaboration and info on development.
+
+   * Returning users can find a link to my Social Media (Instagram) where they can contact me about any further information and questions they might have, and there is a link to my github repositories in case a user is interested in working together in a future colaboration or if the user has questions about how the game was made or how it functions. They can aswell ask questions on how the game works possibly even though its pretty self explanatory.
+
+* As a returning user, I would like to test out my skills in the game to their full potential.
+
+   * Returning users have the information on how many sets of cards have been flipped every time they finish the game, so they can try out themselves in completing the game with the least ammount of card sets flipped.
 
 ## Deployment
 
