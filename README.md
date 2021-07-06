@@ -25,23 +25,29 @@ You can find the link to my repositories on GitHub <a href="https://github.com/M
 
   * [Surface](#surface)
 
-* [Features](#Features)
+  * [Features](#Features)
 
-* [Technology](#Technology)
+  * [Technology](#Technology)
 
-  * [Functionality testing](#Functionality-testing)
+  * [Functionality Testing](#Functionality-testing)
 
   * [Compatibility testing](#Compatibility-testing)
 
   * [Code validation](#Code-validation)
 
-* [Performance testing](#Performance-testing)
+  * [Performance testing](#Performance-testing)
 
-* [Deployment](#Deployment)
+  * [User Stories Testing](#User-stories-testing)
 
-* [Credits](#Credits)
+  * [Deployment](#Deployment)
 
-* [Screenshots](#Screenshots)
+  * [Bugs duing Development](#Bugs-duing-Development)
+
+  * [Credits](#Credits)
+
+  * [Acknowledgements](#Acknowledgements)
+
+  * [Screenshots](#Screenshots)
 
 
 # UX
