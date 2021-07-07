@@ -317,7 +317,12 @@ To run localy:
 
 * Had an issue with the flip counter span, it stoped working as soon as i added another span that shows the same information when the game has been completed.
 
+   * I renamed one of the spans so they do not have the same name then pulled the other "span1" into the scrip while making it equal to the first "span".
+
+
 * Had an issue with Audio files, both the audio file for a match and for a game victory played at the same time when the game is completed and resulted in a victory.
+
+   * I did not have the right idea on how the function should look like, later on i realised that it could be writen as an If else statement making the two sounds distiguishable.
 
 ## Credits
 
