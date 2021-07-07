@@ -53,7 +53,7 @@ function disableCards() {
     firstCard.removeEventListener('click', flipCard);
     secondCard.removeEventListener('click', flipCard);
     matchCount++;
-    if (matchCount === 2){
+    if (matchCount === 10){
         victory();
     }
     else {
