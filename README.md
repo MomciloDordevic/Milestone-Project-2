@@ -41,7 +41,7 @@ You can find the link to my repositories on GitHub <a href="https://github.com/M
 
 * [Deployment](#Deployment)
 
-  * [Bugs duing Development](#Bugs-duing-Development)
+  * [Issues duing Development](#Issues-duing-Development)
 
 * [Credits](#Credits)
 
@@ -313,7 +313,7 @@ To run localy:
 
 [Back to Table of Contents](https://github.com/MomciloDordevic/Milestone-Project-2#table-of-contents)
 
-## Bugs during development
+## Issues during development
 
 * Had an issue with the flip counter span, it stoped working as soon as i added another span that shows the same information when the game has been completed.
 
