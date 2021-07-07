@@ -43,6 +43,7 @@ function checkForMatch() {
 
 function victory() {
     document.getElementById('victory-text').classList.add('visible');
+    document.getElementById('counter1').innerHTML=counter+1;
     victoryAudio.play();
 }
 
@@ -51,10 +52,12 @@ function victory() {
 function disableCards() {
     firstCard.removeEventListener('click', flipCard);
     secondCard.removeEventListener('click', flipCard);
-    clickAudio.play();
     matchCount++;
-    if (matchCount === 10){
+    if (matchCount === 2){
         victory();
+    }
+    else {
+        clickAudio.play();
     }
 
     resetBoard();
